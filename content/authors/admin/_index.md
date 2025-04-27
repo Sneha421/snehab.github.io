@@ -31,19 +31,17 @@ profiles:
     url: 'snehabalaji74@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Sneha421
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/sneha-b-074/
 
 interests:
   - Artificial Intelligence
   - Natural Language Processing
-  - Information Retrieval
+  - Explainable AI
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: BTech in Computer Science and Engineering (Artificial Intelligence)
     institution: Amrita Vishwa Vidyapeetham, Bangalore
     date_start: 2019-07-10
     date_end: 2023-07-10
@@ -51,33 +49,24 @@ education:
       GPA: 9.0/10
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - AI in Natural Language Processing, Deep Learning for Signal & Image Processing 
+      - Processing, Deep Reinforcement Learning 
+      - AI in Speech
+      - Big Data Analytics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: AI Data Science Engineer I
+    company_name: Medtronic
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Developed an NLP and ML-based recommendation system for the Diabetes Complaint Handling Unit, saving 2000 man hours annually.
+      - Automated regulatory email uploads using OCR & Microsoft Power Automate, saving 500 man hours annually and reducing compliance risk.
+      - Applied statistical analysis to monitor complaint volume, allowing for early identification of quality and reliability issues in products.
+      - Won the Best Rookie Award for my contributions.
+ 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -99,9 +88,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -115,10 +104,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
+    percent: 100
+  - name: Tamil
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -136,4 +125,4 @@ awards:
 
 ## About Me
 
-👋🏼 Hi! I'm Sneha, an incoming Master's student in Artificial Intelligence at NTU Singapore.
+👋🏼 Hi! I'm Sneha, an incoming Master's student in Artificial Intelligence at NTU Singapore. As a future AI researcher with roots in storytelling and investigative thinking, I’m fascinated by how machine learning models make decisions - and how we can make them more transparent, ethical, and accessible. 
