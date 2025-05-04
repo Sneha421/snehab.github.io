@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: 'https://sneha421.github.io/snehab.github.io/uploads/Sneha_Balasubramoni_Resume.pdf'
+        title: Sneha Balasubramoni's CV
     design:
       css_class: dark
       background:

@@ -91,8 +91,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: open-book
-        link: 'https://sneha421.github.io/snehab.github.io/assets/media/icons/open-book.svg'
+        icon: custom/open-book
       - name: Dance
         description: ''
         percent: 80
