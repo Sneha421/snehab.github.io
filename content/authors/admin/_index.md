@@ -91,7 +91,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: open-book.svg
+        icon: open-book
       - name: Dance
         description: ''
         percent: 80
