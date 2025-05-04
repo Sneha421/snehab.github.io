@@ -74,7 +74,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -91,7 +91,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: open-book.svg
       - name: Dance
         description: ''
         percent: 80
