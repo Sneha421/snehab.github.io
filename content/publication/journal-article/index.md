@@ -34,6 +34,7 @@ tags:
 - BLEU Score
 # Display this page in the Featured widget?
 featured: true
+active: true
 # links:
 # - name: ""
 #   url: ""
