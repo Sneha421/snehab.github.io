@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /uploads/Sneha_Balasubramoni_Resume.pdf
+        url: /workspaces/snehab.github.io/static/uploads/Sneha_Balasubramoni_Resume.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m deeply interested in the intersection of AI and healthcare—especially using NLP and deep learning to tackle real-world clinical challenges. My recent work explores
-
-        transformer-based approaches for improving OCR outputs, and I’ve published research in NLP along these lines. I’m always excited to collaborate on meaningful projects
+        I’m deeply interested in the intersection of AI and healthcare—especially using NLP and deep learning to tackle real-world clinical challenges. 
         
-        that blend responsible AI with impactful healthcare solutions.
+        My recent work explores transformer-based approaches for improving OCR outputs, and I’ve published research in NLP along these lines. 
+        
+        I’m always excited to collaborate on meaningful projects that blend responsible AI with impactful healthcare solutions.
     design:
       columns: '1'
   - block: collection
