@@ -32,7 +32,8 @@ tags:
 - Reinforcement Learning
 - SQuAD Dataset
 - BLEU Score
-
+# Display this page in the Featured widget?
+featured: true
 # links:
 # - name: ""
 #   url: ""
@@ -52,8 +53,7 @@ image:
   focal_point: ""
   preview_only: false
 
-# Display this page in the Featured widget?
-featured: true
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
