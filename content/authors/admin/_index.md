@@ -91,7 +91,8 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: assets/media/icons/open-book.svg
+        icon: open-book
+        link: assets/media/icons/open-book.svg
       - name: Dance
         description: ''
         percent: 80
@@ -115,7 +116,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Consolation Prize in the Go AI for Social Good Hackathon
-    url: /workspaces/snehab.github.io/static/uploads/Hackathon_Certificate.pdf
+    url: https://sneha421.github.io/snehab.github.io/uploads/Hackathon_Certificate.pdf
     date: '2022-06-12'
     awarder: Institute of Electrical and Electronics Engineering (IEEE)
     icon: IEEE

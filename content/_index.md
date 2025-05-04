@@ -12,12 +12,12 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+      username: sneha
+      text: "Sneha Balasubramoni"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: 'https://sneha421.github.io/workspaces/snehab.github.io/static/uploads/Sneha_Balasubramoni_Resume.pdf'
+        url: 'https://sneha421.github.io/snehab.github.io/uploads/Sneha_Balasubramoni_Resume.pdf'
     design:
       css_class: dark
       background:
