@@ -92,7 +92,7 @@ skills:
         description: ''
         percent: 100
         icon: open-book
-        link: assets/media/icons/open-book.svg
+        link: 'https://sneha421.github.io/snehab.github.io/assets/media/icons/open-book.svg'
       - name: Dance
         description: ''
         percent: 80
