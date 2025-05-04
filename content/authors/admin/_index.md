@@ -92,14 +92,14 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Dance
         description: ''
         percent: 80
-        icon: camera
+        icon: dance
+      - name: Cafe-Hopping
+        description: ''
+        percent: 100
+        icon: coffee
 
 languages:
   - name: English
@@ -114,13 +114,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Consolation Prize in the Go AI for Social Good Hackathon
+    url: /uploads/Hackathon_Certificate.pdf
+    date: '2022-06-12'
+    awarder: Institute of Electrical and Electronics Engineering (IEEE)
+    icon: IEEE
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Implemented a Reddit Mental Health chatbot, that identifies the type of mental health issue using NLP and suggests potential remedies by providing helpline numbers and relevant articles.
 ---
 
 ## About Me

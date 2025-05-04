@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://example.com/workspaces/snehab.github.io/static/uploads/Sneha_Balasubramoni_Resume.pdf
+        url: /uploads/Sneha_Balasubramoni_Resume.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m deeply interested in the intersection of AI and healthcare—especially using NLP and deep learning to tackle real-world clinical challenges. My recent work explores
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        transformer-based approaches for improving OCR outputs, and I’ve published research in NLP along these lines. I’m always excited to collaborate on meaningful projects
         
-        Please reach out to collaborate 😃
+        that blend responsible AI with impactful healthcare solutions.
     design:
       columns: '1'
   - block: collection
@@ -73,34 +73,4 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-
 ---
