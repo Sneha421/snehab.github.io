@@ -12,7 +12,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '01-02 December 2023'
+date: '2023-12-01T00:00:00Z'
 doi: '10.1109/MysuruCon59703.2023.10396964'
 
 # Schedule page publish date (NOT publication's date).
