@@ -13,7 +13,7 @@ image:
 ---
 <style>
 .card-img-top {
-  width: 100%;
+  width: 10%;
   height: 8px;
   object-fit: cover;
   object-position: center;
