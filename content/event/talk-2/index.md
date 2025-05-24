@@ -13,7 +13,7 @@ event_url: https://www.youtube.com/watch?v=aWFD_T7o29s
 #   country: United States
 
 # summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: This talk offers a concise overview of two foundational machine learning algorithms — Naive Bayes and Support Vector Machines (SVM). It covers their underlying principles, real-world applications, and key differences.
+abstract: The session covered the fundamentals of Decision Trees and Random Forests, followed by a detailed hands-on coding walkthrough to reinforce the concepts. Participants gained practical insights into how these algorithms work, how to implement them in Python, and how to interpret model outputs effectively.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
