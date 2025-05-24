@@ -11,11 +11,3 @@ image:
   caption: ''
   filename: ''
 ---
-<style>
-.card-img-top {
-  width: 10%;
-  height: 8px;
-  object-fit: cover;
-  object-position: center;
-}
-</style>
