@@ -96,7 +96,7 @@ skills:
       - name: Dance
         description: ''
         percent: 80
-        icon: custom/ieee
+        icon: custom/person-dress-solid
       - name: Cafe-Hopping
         description: ''
         percent: 100
@@ -119,7 +119,7 @@ awards:
     url: https://sneha421.github.io/snehab.github.io/uploads/Hackathon_Certificate.pdf
     date: '2022-06-12'
     awarder: Institute of Electrical and Electronics Engineering (IEEE)
-    icon: custom/ieee
+    - icon: custom/ieee
     summary: |
       Implemented a Reddit Mental Health chatbot, that identifies the type of mental health issue using NLP and suggests potential remedies by providing helpline numbers and relevant articles.
 ---
