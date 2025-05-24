@@ -121,8 +121,8 @@ awards:
     awarder: Institute of Electrical and Electronics Engineering (IEEE)
     summary: |
       Implemented a Reddit Mental Health chatbot, that identifies the type of mental health issue using NLP and suggests potential remedies by providing helpline numbers and relevant articles.
-    icon: ieee
-    icon_pack: ai
+    icon: trophy
+    icon_pack: fas
 ---
 
 ## About Me
