@@ -119,8 +119,7 @@ awards:
     url: https://sneha421.github.io/snehab.github.io/uploads/Hackathon_Certificate.pdf
     date: '2022-06-12'
     awarder: Institute of Electrical and Electronics Engineering (IEEE)
-    icon: ieee
-    icon-pack: custom
+    icon: custom/ieee-solid
     summary: |
       Implemented a Reddit Mental Health chatbot, that identifies the type of mental health issue using NLP and suggests potential remedies by providing helpline numbers and relevant articles.
 ---
