@@ -14,6 +14,7 @@ image:
 <style>
   /* target all cover images in your gallery/cards */
   .gallery img{
+
     width: 100%;
     max-width: 300px;    /* choose your “common” width */
     height: 200px;       /* fixed height */
@@ -21,5 +22,6 @@ image:
     border-radius: 8px;  /* optional: round the corners */
     display: block;
     margin: 0 auto;      /* center if there’s extra space */
+    
   }
 </style>
