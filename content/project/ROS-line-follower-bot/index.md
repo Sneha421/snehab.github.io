@@ -8,7 +8,7 @@ tags:
   - Python3
 ---
 
-Designed and implemented a line follower robot (Waffle-Bot) that uses sensors and a camera to detect and follow lines on custom tracks. The robot processes the line position to decide path direction and successfully navigates multiple test tracks.
+Waffle-Bot that detects and follows lines on custom tracks.
 
 
 

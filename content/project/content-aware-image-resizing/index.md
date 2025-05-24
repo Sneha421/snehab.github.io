@@ -8,6 +8,6 @@ tags:
   - Seam Carving
 ---
 
-This project deals with the implementation of Content-Aware Image Resizing using dynamic programming via the technique of Seam Carving.
+Implementation of Content-Aware Image Resizing using dynamic programming via Seam Carving.
 
 <!--more-->
