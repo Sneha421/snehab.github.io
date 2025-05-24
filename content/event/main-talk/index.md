@@ -18,7 +18,7 @@ tags: []
 featured: true
 
 image:
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 
 url_video: "https://www.youtube.com/watch?v=3FUzXmjIEXk"
