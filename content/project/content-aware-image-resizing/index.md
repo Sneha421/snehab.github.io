@@ -3,8 +3,8 @@ title: Content Aware Image Resizing
 date: 2022-10-26
 external_link: https://github.com/HarshithaNagarajan/Content-Aware-Image-Resizing
 tags:
+  - Computer Vision
   - Tkinter
-  - Python3
   - Seam Carving
 ---
 
