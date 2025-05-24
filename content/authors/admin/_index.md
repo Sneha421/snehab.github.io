@@ -96,7 +96,7 @@ skills:
       - name: Dance
         description: ''
         percent: 80
-        icon: custom/dance-girl
+        icon: custom/ieee
       - name: Cafe-Hopping
         description: ''
         percent: 100
