@@ -1,0 +1,34 @@
+{{/* layouts/partials/widgets/award.html */}}
+{{ $page := .page }}
+{{ $widget := .widget }}
+
+{{ range $item := $widget.awards }}
+  <div class="mb-4">
+    <div class="d-flex align-items-start">
+
+      {{ with $item.icon }}
+        <div class="me-3">
+          {{ if strings.HasPrefix . "custom/" }}
+            {{ partial "functions/get-icon.html" (dict "name" (strings.TrimPrefix "custom/" .) "type" "custom" "size" 40) }}
+          {{ else }}
+            {{ partial "functions/get-icon.html" (dict "name" . "type" (default "fas" $item.icon_pack) "size" 40) }}
+          {{ end }}
+        </div>
+      {{ end }}
+
+      <div>
+        <h5 class="mb-1">
+          {{ with $item.url }}
+            <a href="{{ . }}">{{ $item.title }}</a>
+          {{ else }}
+            {{ $item.title }}
+          {{ end }}
+        </h5>
+        <div class="text-muted mb-1">
+          {{ $item.awarder }} &mdash; {{ time.Format "2006-01-02" $item.date }}
+        </div>
+        <div class="fs-6">{{ $item.summary | markdownify }}</div>
+      </div>
+    </div>
+  </div>
+{{ end }}
