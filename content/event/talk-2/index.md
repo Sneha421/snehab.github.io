@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  focal_point: Center
+  focal_point: Right
 
 #links:
 #  - icon: twitter
