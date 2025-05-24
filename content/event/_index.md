@@ -13,8 +13,7 @@ image:
 ---
 <style>
   /* target all cover images in your gallery/cards */
-  .gallery img,
-  .card img {
+  .gallery img{
     width: 100%;
     max-width: 300px;    /* choose your “common” width */
     height: 200px;       /* fixed height */
