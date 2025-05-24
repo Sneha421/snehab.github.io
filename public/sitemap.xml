@@ -161,5 +161,25 @@
     <loc>http://localhost:1313/snehab.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/snehab.github.io/tags/automata/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/snehab.github.io/tags/nlp/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/snehab.github.io/tags/speech-recognition/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/snehab.github.io/publication/conf-paper-2/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/snehab.github.io/tags/weighted-transducers/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

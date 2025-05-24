@@ -1,5 +1,5 @@
 ---
-title: 'Speech Recognition using Weighted Finite-State Transducers'
+title: 'Attendance Tracking with Face Recognition Through Hidden Markov Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2022-04-07T00:00:00Z'
-doi: '10.1109/I2CT54291.2022.9824703'
+doi: '10.1109/ICEARS53579.2022.9751888'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -24,19 +24,19 @@ doi: '10.1109/I2CT54291.2022.9824703'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 2022 IEEE 7th International conference for Convergence in Technology (I2CT)
+publication:  2022 International Conference on Electronics and Renewable Systems (ICEARS)
 # publication_short: In *ICW*
 
-abstract: Speech recognition has always been a prominent field of research in NLP, due to its numerous applications such as speech-to-text conversion, voice assistants, enabling smart homes, etc. Computer algorithms are used by speech recognition systems to process, interpret, and transform spoken words into textual content. Modern statistically-based speech recognition systems use a variety of algorithms such as Dynamic Time Warping(DTW), Neural Networks, and end-to-end automatic system. In this paper, we will perform speech recognition using a type of Finite Automata called Weighted Finite-State Transducer.A Finite Transducer is a machine that has no final state. It only takes in some input and produces the appropriate output. Finite State Transducers can contain weights, in which case they are called Weighted Finite-State Transducers (WFST), where each transition is labeled with a weight along with their input and output labels. Weights can represent penalties, probabilities, durations, or any other type of value that gets added along the paths for the computation of the overall weight of mapping an input sequence to an output sequence. This property of weighted transducers allows it to be an essential choice for representation of the probabilistic finite-state models that are widely used in speech processing. Thus, weighted finite-state transducers elucidate a common framework for the formulation and use of models in speech recognition, with shared algorithms that provide significant algorithmic and software engineering benefits.
+abstract: Facial recognition is one of the most secure ways to identify a person. Manual attendance in organizations, be it in classrooms or libraries or even attendance for teachers is truly a hassle. Due to the inception of Hidden Markov Model (HMM), they have worked well with image data and it has plethora of facial recognition applications. In this paper, yet another application of face recognition with HMM is explored, where it is integrated with Singular Value Decomposition (SVD) and track the attendance of the students present in a database. HMMs deal with data in the form of states and sequences. Face recognition looked through the lens of HMMs which can be framed in the following manner: a face is split into regions vertically (forehead, chin, etc.) and a particular sequence is always preserved. A rectangular window of fixed size is passed over every test image, and for every vector obtained, the probability of data is calculated. For training, probability computation is done with the help of the Baum Welch algorithm. This whole model is connected to a simple program to keep track of the students leaving and entering the classroom, marking their presence only and updating the same information in the college’s database.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - NLP
-  - Weighted Transducers
-  - Automata
-  - Speech Recognition
+  - Facial Recognition
+  - Attendance Tracking
+  - Hidden Markov Model
+  - Singular Value Decomposition
 
 # Display this page in the Featured widget?
 featured: false
@@ -47,7 +47,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: ''
-url_code: 'https://github.com/Sneha421/Speech-Recognition-Using-WFSTs'
+url_code: 'https://github.com/Sneha421/Attendance-Tracker-using-HMM'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
