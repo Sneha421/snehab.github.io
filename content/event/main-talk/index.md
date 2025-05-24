@@ -19,6 +19,7 @@ featured: true
 
 image:
   focal_point: Right
+  preview_only: true
 
 url_video: "https://www.youtube.com/watch?v=3FUzXmjIEXk"
 ---
