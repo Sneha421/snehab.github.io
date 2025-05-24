@@ -91,7 +91,7 @@ skills:
       - name: Reading
         description: ''
         percent: 100
-        icon: custom/open-book
+        icon: custom/book-solid
         icon_size: 10
       - name: Dance
         description: ''
