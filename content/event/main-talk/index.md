@@ -18,8 +18,8 @@ tags: []
 featured: true
 
 image:
-  caption: "Image credit: [Unsplash](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
+  focal_point: Center
+  preview_only: false
 
 url_video: "https://www.youtube.com/watch?v=3FUzXmjIEXk"
 ---
