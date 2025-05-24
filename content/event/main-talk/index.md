@@ -1,8 +1,8 @@
 ---
-title: ML Study Group Series Session 3 - Naive Bayes and SVM
+title: Small Steps with Artificial Intelligence
 
-event: Women Who Code - ML Study Group 
-event_url: https://www.youtube.com/watch?v=QSB-du_2S-w
+event: Women Who Code 
+event_url: https://www.youtube.com/watch?v=3FUzXmjIEXk
 
 # location: Hugo Blox Builder HQ
 # address:
@@ -17,12 +17,12 @@ abstract: This talk offers a concise overview of two foundational machine learni
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-02-28T13:00:00Z'
+date: '2021-08-19T21:30:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-02-28T13:00:00Z'
+publishDate: '2021-08-23T13:00:00Z'
 
 authors:
   - admin
@@ -44,7 +44,7 @@ featured: true
 # url_code: 'https://github.com'
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'
-url_video: 'https://www.youtube.com/watch?v=QSB-du_2S-w'
+url_video: 'https://www.youtube.com/watch?v=3FUzXmjIEXk'
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
