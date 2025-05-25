@@ -60,7 +60,6 @@ features:
   privacy_pack:
     enable: false
   extensions:
-    academicons:
-      enable: true
+    academicons: true
 
 
