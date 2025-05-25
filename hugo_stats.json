@@ -361,6 +361,7 @@
       "text-primary-600",
       "text-primary-700",
       "text-primary-800",
+      "text-right",
       "text-slate-700",
       "text-slate-900",
       "text-sm",
@@ -394,7 +395,11 @@
       "base",
       "defs2",
       "grid10",
-      "guide23",
+      "guide832",
+      "guide834",
+      "guide835",
+      "guide836",
+      "guide837",
       "hide-button",
       "layer6",
       "metadata5",
@@ -418,7 +423,7 @@
       "site-header",
       "sun",
       "svg8",
-      "title833",
+      "title839",
       "top"
     ]
   }
