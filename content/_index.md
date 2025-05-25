@@ -42,7 +42,7 @@ sections:
 
         My recent publication explores transformer-based approaches to improve OCR outputs in noisy medical text.
         
-        I’m always excited to collaborate on meaningful projects that blend responsible AI with impactful healthcare solutions.
+        I'm especially excited by research that bridges cutting-edge AI with practical healthcare needs.
     design:
       columns: '1'
   - block: collection
