@@ -36,9 +36,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m deeply interested in the intersection of AI and healthcare—especially using NLP and deep learning to tackle real-world clinical challenges. 
+        I’m deeply interested in the intersection of AI and healthcare — especially using NLP and deep learning to tackle real-world clinical challenges. 
         
-        My recent work explores transformer-based approaches for improving OCR outputs, and I’ve published research in NLP along these lines. 
+        At Medtronic, I built a recommendation system for diabetes product complaints, which deepened my interest in responsible, impactful AI.
+
+        My recent publication explores transformer-based approaches to improve OCR outputs in noisy medical text.
         
         I’m always excited to collaborate on meaningful projects that blend responsible AI with impactful healthcare solutions.
     design:
