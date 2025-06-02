@@ -116,7 +116,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Consolation Prize in the Go AI for Social Good Hackathon
-    url: https://sneha.io/uploads/Hackathon_Certificate.pdf
+    url: https://sneha421.github.io/snehab.github.io/uploads/Hackathon_Certificate.pdf
     date: '2022-06-12'
     awarder: Institute of Electrical and Electronics Engineering (IEEE)
     summary: |
