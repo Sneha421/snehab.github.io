@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: 'https://sneha421.github.io/snehab.github.io/uploads/Sneha_Balasubramoni_Resume.pdf'
+        url: 'https://sneha.io/uploads/Sneha_Balasubramoni_Resume.pdf'
         title: Sneha Balasubramoni's CV
     design:
       css_class: dark
